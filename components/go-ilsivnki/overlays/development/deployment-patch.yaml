@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/rhtap_qe/go-ilsivnki:2e5a5fe3715a9e5bf0cb12a3faf4dfd6563bb080@sha256:410ee265bb50fcba1f6c87f51c88aa9f951c97d4ffe1abecd76ff3f63d6fee5a
+        - image: quay.io/rhtap_qe/go-ilsivnki:a294d6a4331b19c42060c61946bebf4a24475e28@sha256:307fb8f394c4fc787583fdae0182c486715376de5ef67794bdb36c3beafee900
           name: container-image
